@@ -1,4 +1,5 @@
 # Junana
+<<<<<<< HEAD
 
 ![](http://junanabook.files.wordpress.com/2013/09/cropped-junanaheader.jpg)
 
@@ -79,3 +80,5 @@ Junana is a work of fiction that describes an alternate present. Many of the tec
 
 Tinka is my muse and my love. She would awaken at 5:30 in the morning for work and bring coffee in to me; so she was my enabler in this act of fiction. Candace Lindquist took red pen in hand to prune away the thicket of copy errors in my typing and back-fill the lacunae in my grammar. She deserves special mention, although I take full credit for all remaining typos and grammatical slips.
 
+=======
+>>>>>>> b93b617cae124279b51f9ac5df1186ffd3904553
